@@ -2,11 +2,12 @@
 # metalsmith-remarkable
 
   A Metalsmith plugin to convert markdown files using remarkable.
+
   (Copy & Paste from https://github.com/segmentio/metalsmith-markdown)
 
 ## Installation
 
-    $ npm install metalsmith-remarkable
+    $ npm install git+https://github.com/mulyoved/metalsmith-remarkable.git
 
 ## CLI Usage
 
